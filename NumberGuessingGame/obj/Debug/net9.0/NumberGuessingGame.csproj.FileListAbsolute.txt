@@ -1,0 +1,14 @@
+C:\Users\jigyb\OneDrive\C# Programming\NumberGuessingGame\bin\Debug\net9.0\NumberGuessingGame.exe
+C:\Users\jigyb\OneDrive\C# Programming\NumberGuessingGame\bin\Debug\net9.0\NumberGuessingGame.deps.json
+C:\Users\jigyb\OneDrive\C# Programming\NumberGuessingGame\bin\Debug\net9.0\NumberGuessingGame.runtimeconfig.json
+C:\Users\jigyb\OneDrive\C# Programming\NumberGuessingGame\bin\Debug\net9.0\NumberGuessingGame.dll
+C:\Users\jigyb\OneDrive\C# Programming\NumberGuessingGame\bin\Debug\net9.0\NumberGuessingGame.pdb
+C:\Users\jigyb\OneDrive\C# Programming\NumberGuessingGame\obj\Debug\net9.0\NumberGuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jigyb\OneDrive\C# Programming\NumberGuessingGame\obj\Debug\net9.0\NumberGuessingGame.AssemblyInfoInputs.cache
+C:\Users\jigyb\OneDrive\C# Programming\NumberGuessingGame\obj\Debug\net9.0\NumberGuessingGame.AssemblyInfo.cs
+C:\Users\jigyb\OneDrive\C# Programming\NumberGuessingGame\obj\Debug\net9.0\NumberGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\jigyb\OneDrive\C# Programming\NumberGuessingGame\obj\Debug\net9.0\NumberGuessingGame.dll
+C:\Users\jigyb\OneDrive\C# Programming\NumberGuessingGame\obj\Debug\net9.0\refint\NumberGuessingGame.dll
+C:\Users\jigyb\OneDrive\C# Programming\NumberGuessingGame\obj\Debug\net9.0\NumberGuessingGame.pdb
+C:\Users\jigyb\OneDrive\C# Programming\NumberGuessingGame\obj\Debug\net9.0\NumberGuessingGame.genruntimeconfig.cache
+C:\Users\jigyb\OneDrive\C# Programming\NumberGuessingGame\obj\Debug\net9.0\ref\NumberGuessingGame.dll
